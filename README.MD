@@ -14,6 +14,14 @@ Implementações:
 
 ---
 
+
+## 🔗 Projeto Online
+
+Acesse o projeto publicado em: [Clique aqui para ver o site](https://alura-plus-clone-thiago161012s-projects.vercel.app/)
+
+
+---
+
 # Tecnologias utilizadas
 
 - HTML5
