@@ -176,31 +176,32 @@ body{
     color: var(--cor-de-fundo);
 }
 
+
 @media screen and (max-width: 770px) {
-    .container {
+    
+.container {
         display: block;
         background-image: none;
 
     }
 
-    .container__imagem {
+.container__imagem {
         width: 50vw;
     }
 
-    .container__caixa {
+.container__caixa {
         margin: 2em 2em;
     }
 
-    .secundario {
+.secundario {
         margin: 0;
         text-align: center;
     }
-
-    .secundario__imagem {
+    
+.secundario__imagem {
         width: 50vw;
     }
-}
-
+    
 .ajuste__titulo {
         text-align: center;
 }
@@ -214,3 +215,5 @@ body{
     text-align: center;
 }
     
+}
+
