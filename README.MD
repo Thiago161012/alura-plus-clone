@@ -14,11 +14,9 @@ Implementações:
 
 ---
 
-
 ## 🔗 Projeto Online
 
 Acesse o projeto publicado em: [Clique aqui para ver o site](https://alura-plus-clone-thiago161012s-projects.vercel.app/)
-
 
 ---
 
@@ -36,6 +34,6 @@ Acesse o projeto publicado em: [Clique aqui para ver o site](https://alura-plus-
 
 ## Contato
  
-**Thiago Matheus Guimarães de Moraes**
-Aracaju, Sergipe - Brasil 
+**Thiago Matheus Guimarães de Moraes**  
+Aracaju, Sergipe - Brasil  
 [Linkedin](https://www.linkedin.com/in/thiago-matheus-guimaraes-de-moraes-1b967836a) | [Github](https://github.com/Thiago161012)
